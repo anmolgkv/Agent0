@@ -42,3 +42,4 @@ MODEL=qwen3:8b node index.js
 | 03 | [workflows-vs-agents](03-workflows-vs-agents/README.md) | Who decides the next step? | [▶️](https://youtu.be/h_QlZVaqK8k) |
 | 04 | [what-is-context](04-what-is-context/README.md) | The model only knows what you send it | [▶️](https://youtu.be/2GOCbNSGCls) |
 | 05 | [your-first-llm-call](05-your-first-llm-call/README.md) | One request in, one answer out | [▶️](https://youtu.be/HpJEA2haxYA) |
+| 06 | [llms-have-no-memory](06-llms-have-no-memory/README.md) | You carry the conversation | [▶️](https://youtu.be/5RL1q5F1qqM) |
