@@ -39,3 +39,4 @@ MODEL=qwen3:8b node index.js
 |---|--------|-------------|:-----:|
 | 01 | [what-is-an-ai-agent](01-what-is-an-ai-agent/README.md) | Agent = LLM + Tools + Loop | [▶️](https://youtu.be/XCPzL2Lr460) |
 | 02 | [open-vs-closed-models](02-open-vs-closed-models/README.md) | Why run the model on your own machine | [▶️](https://youtu.be/STCvqbUa6aM) |
+| 03 | [workflows-vs-agents](03-workflows-vs-agents/README.md) | Who decides the next step? | [▶️](https://youtu.be/h_QlZVaqK8k) |
