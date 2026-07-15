@@ -1,0 +1,23 @@
+{
+  "name": "agent-0",
+  "version": "1.0.0",
+  "description": "A toy project to build Agent from scratch",
+  "keywords": [
+    "llm",
+    "Agent"
+  ],
+  "homepage": "https://github.com/anmolgkv/Agent0#readme",
+  "bugs": {
+    "url": "https://github.com/anmolgkv/Agent0/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolgkv/Agent0.git"
+  },
+  "license": "ISC",
+  "author": "anmolgkv",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
