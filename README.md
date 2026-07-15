@@ -43,3 +43,4 @@ MODEL=qwen3:8b node index.js
 | 04 | [what-is-context](04-what-is-context/README.md) | The model only knows what you send it | [▶️](https://youtu.be/2GOCbNSGCls) |
 | 05 | [your-first-llm-call](05-your-first-llm-call/README.md) | One request in, one answer out | [▶️](https://youtu.be/HpJEA2haxYA) |
 | 06 | [llms-have-no-memory](06-llms-have-no-memory/README.md) | You carry the conversation | [▶️](https://youtu.be/5RL1q5F1qqM) |
+| 07 | [system-prompts](07-system-prompts/README.md) | The instructions that steer every reply | [▶️](https://youtu.be/ls3kbiFnAJ4) |
