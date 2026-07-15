@@ -41,3 +41,4 @@ MODEL=qwen3:8b node index.js
 | 02 | [open-vs-closed-models](02-open-vs-closed-models/README.md) | Why run the model on your own machine | [▶️](https://youtu.be/STCvqbUa6aM) |
 | 03 | [workflows-vs-agents](03-workflows-vs-agents/README.md) | Who decides the next step? | [▶️](https://youtu.be/h_QlZVaqK8k) |
 | 04 | [what-is-context](04-what-is-context/README.md) | The model only knows what you send it | [▶️](https://youtu.be/2GOCbNSGCls) |
+| 05 | [your-first-llm-call](05-your-first-llm-call/README.md) | One request in, one answer out | [▶️](https://youtu.be/HpJEA2haxYA) |
