@@ -33,3 +33,8 @@ MODEL=qwen3:8b node index.js
 | # | Lesson | One concept | Video |
 |---|--------|-------------|:-----:|
 | 00 | [prerequisite](00-prerequisite/README.md) | Install Node, Ollama, and the model | [▶️](https://www.youtube.com/watch?v=Yw6RhNM-opE) |
+
+### Part 1 — Foundations
+| # | Lesson | One concept | Video |
+|---|--------|-------------|:-----:|
+| 01 | [what-is-an-ai-agent](01-what-is-an-ai-agent/README.md) | Agent = LLM + Tools + Loop | [▶️](https://youtu.be/XCPzL2Lr460) |
