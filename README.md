@@ -48,3 +48,4 @@ MODEL=qwen3:8b node index.js
 | 09 | [why-llms-need-tools](09-why-llms-need-tools/README.md) | Watch a smart model fail, and see why | [▶️](https://youtu.be/JTQZ0TqGDlc) |
 | 10 | [what-is-tool-calling](10-what-is-tool-calling/README.md) | The model *asks* to call a function | [▶️](https://youtu.be/6IsWjv_aBgk) |
 | 11 | [executing-tools](11-executing-tools/README.md) | The complete round-trip, once | [▶️](https://youtu.be/P-GlhfHYiNU) |
+| 12 | [real-world-tools](12-real-world-tools/README.md) | A tool that touches the real world | [▶️](https://youtu.be/nYu7FaLpeBg) |
