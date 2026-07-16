@@ -49,3 +49,4 @@ MODEL=qwen3:8b node index.js
 | 10 | [what-is-tool-calling](10-what-is-tool-calling/README.md) | The model *asks* to call a function | [▶️](https://youtu.be/6IsWjv_aBgk) |
 | 11 | [executing-tools](11-executing-tools/README.md) | The complete round-trip, once | [▶️](https://youtu.be/P-GlhfHYiNU) |
 | 12 | [real-world-tools](12-real-world-tools/README.md) | A tool that touches the real world | [▶️](https://youtu.be/nYu7FaLpeBg) |
+| 13 | [the-tool-helper](13-the-tool-helper/README.md) | Keep the function and its definition together | [▶️](https://youtu.be/l131e3KVyKw) |
