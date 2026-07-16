@@ -46,3 +46,4 @@ MODEL=qwen3:8b node index.js
 | 07 | [system-prompts](07-system-prompts/README.md) | The instructions that steer every reply | [▶️](https://youtu.be/ls3kbiFnAJ4) |
 | 08 | [structured-output](08-structured-output/README.md) | Forcing the model to answer in a fixed shape | [▶️](https://youtu.be/HBKLDXuekIU) |
 | 09 | [why-llms-need-tools](09-why-llms-need-tools/README.md) | Watch a smart model fail, and see why | [▶️](https://youtu.be/JTQZ0TqGDlc) |
+| 10 | [what-is-tool-calling](10-what-is-tool-calling/README.md) | The model *asks* to call a function | [▶️](https://youtu.be/6IsWjv_aBgk) |
