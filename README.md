@@ -50,3 +50,4 @@ MODEL=qwen3:8b node index.js
 | 11 | [executing-tools](11-executing-tools/README.md) | The complete round-trip, once | [▶️](https://youtu.be/P-GlhfHYiNU) |
 | 12 | [real-world-tools](12-real-world-tools/README.md) | A tool that touches the real world | [▶️](https://youtu.be/nYu7FaLpeBg) |
 | 13 | [the-tool-helper](13-the-tool-helper/README.md) | Keep the function and its definition together | [▶️](https://youtu.be/l131e3KVyKw) |
+| 14 | [the-simple-agent-loop](14-the-simple-agent-loop/README.md) | A `while` loop turns tool-calling into an agent | [▶️](https://youtu.be/v8g1tdA0OfQ) |
