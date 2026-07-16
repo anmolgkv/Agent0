@@ -45,3 +45,4 @@ MODEL=qwen3:8b node index.js
 | 06 | [llms-have-no-memory](06-llms-have-no-memory/README.md) | You carry the conversation | [▶️](https://youtu.be/5RL1q5F1qqM) |
 | 07 | [system-prompts](07-system-prompts/README.md) | The instructions that steer every reply | [▶️](https://youtu.be/ls3kbiFnAJ4) |
 | 08 | [structured-output](08-structured-output/README.md) | Forcing the model to answer in a fixed shape | [▶️](https://youtu.be/HBKLDXuekIU) |
+| 09 | [why-llms-need-tools](09-why-llms-need-tools/README.md) | Watch a smart model fail, and see why | [▶️](https://youtu.be/JTQZ0TqGDlc) |
